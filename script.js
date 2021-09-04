@@ -68,10 +68,10 @@ function generatePassword(){
     
     /* Logs for double checking*/
     /*
-    console.log("User pickedLowercase:"+pickedLowercase+", PW hasLosercase:"+hasLosercase);
-    console.log("UserpickedUppercase:"+pickedUppercase+", PW hasUppercase:"+hasUppercase);
-    console.log("UserpickedNumeric:"+pickedNumeric+", PW hasNumeric:"+hasNumeric);
-    console.log("UserpickedSpeical:"+pickedSpeical+", PW hasSpecial:"+hasSpecial);
+    console.log("User picked Lowercase:"+pickedLowercase+", PW has Losercase:"+hasLosercase);
+    console.log("User picked Uppercase:"+pickedUppercase+", PW has Uppercase:"+hasUppercase);
+    console.log("User picked Numeric:"+pickedNumeric+", PW has Numeric:"+hasNumeric);
+    console.log("User picked Speical:"+pickedSpeical+", PW has Special:"+hasSpecial);
     */
 
     //only return if the generated password meets all selected types
